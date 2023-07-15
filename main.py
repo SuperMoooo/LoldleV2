@@ -11,8 +11,6 @@ scrollFrame = ScrolledFrame(root, bootstyle='dark')
 scrollFrame.pack(expand=True, fill='both')
 
 def main(scrollFrame):
-
-
     width = root.winfo_screenwidth()
     height = root.winfo_screenheight()
     BG = '#363636'
